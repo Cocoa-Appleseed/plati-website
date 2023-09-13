@@ -1,1 +1,1 @@
-# plati-website
+# Welcome to Platinum's K-Hub!
