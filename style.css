@@ -1,0 +1,16 @@
+* {
+    font-family: helvetica;
+  }
+  body {
+    background-color: #242424;
+    text-align: center;
+  }
+  h1, h3, p {
+    color: white;
+  }
+  a {
+    color: cyan;
+  }
+  #logo {
+    border-radius: 30px;
+  }
