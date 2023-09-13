@@ -1,5 +1,7 @@
 # Welcome to Platinum's K-Hub Github!
 ### About
-This Khub was made for platinum members so they can get their resources in an orderly manner, we hope you will enjoy out website! - Tech team
+This K-Hub was made for 9-Platinum members, so that they can get their resources in an orderly manner.
+We hope you will enjoy our website!
+- Tech team
 ### Website Link
 https://tinyurl.com/plati-website
