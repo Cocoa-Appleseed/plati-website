@@ -1,4 +1,4 @@
-# Welcome to Platinum's K-Hub Github!
+# Welcome to the GitHub Page of Platinum's K-Hub!
 ### About
 This K-Hub was made for our fellow classmates in 9-Platinum, so that they can get their resources, materials, and reviewers in an orderly manner.
 We hope that you will enjoy our website! - Tech team
